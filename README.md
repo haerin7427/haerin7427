@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java, Algorithm
+
+### Project 
+
+- Wanana (2020.08 ~ 2021.06)
+- OAS (2021.01 ~ 2021.08)
+
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haerin7427)](https://github.com/anuraghazra/github-readme-stats)
 
 
