@@ -1,4 +1,4 @@
-<a href="https://study-ce.tistory.com/"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Micro.blog&logoColor=white&link=https://study-ce.tistory.com/"/>Blog</a>&nbsp
+<a href="https://study-ce.tistory.com/"><img src="https://img.shields.io/badge/Micro.blog?style=flat-square&logo=Micro.blog&logoColor=white&link=https://study-ce.tistory.com/"/></a>&nbsp
 
 ### Hi there 👋
 
