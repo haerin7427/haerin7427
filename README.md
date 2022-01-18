@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java, Algorithm
+- 🌱 I’m currently learning Java, Algorithm, and Web programming
 
 ### Project 
 
