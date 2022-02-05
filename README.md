@@ -12,7 +12,6 @@
 - OAS (2021.01 ~ 2021.08)
 - Let's exercise (2021.10 ~ 2021.12)
 
-### Award 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haerin7427&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
