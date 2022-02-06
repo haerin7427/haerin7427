@@ -26,10 +26,6 @@
   <li><a href="https://github.com/haerin7427/OAS">OAS</a> (2021.01 ~ 2021.08)</li>
   <li><a href="https://github.com/haerin7427/LetsExercise">Let's exercise </a> (2021.10 ~ 2021.12)</li>
  </ul>
-<!-- 
-- Wanana (2020.08 ~ 2021.06)
-- OAS (2021.01 ~ 2021.08)
-- Let's exercise (2021.10 ~ 2021.12) -->
 
 
 ### Github stats 
@@ -39,9 +35,6 @@
 ### Top Langs 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haerin7427&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
--required
 
 <!--
 **haerin7427/haerin7427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
