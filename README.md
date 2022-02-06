@@ -1,6 +1,6 @@
-<a href="https://study-ce.tistory.com/">
+<!-- <a href="https://study-ce.tistory.com/">
   <img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=Micro.blog&logoColor=white&link=https://study-ce.tistory.com/"/>
-</a>&nbsp
+</a>&nbsp -->
 
 ### Hi there, I'm Haerin 👋
 
