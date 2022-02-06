@@ -8,6 +8,12 @@
 🌱 I’m currently learning Java, Algorithm, and Web programming.</br>
 💛 I want to be a backend developer.</br>
 💻 I'm in between jobs.</br>
+📝 I regularly write articles on [https://study-ce.tistory.com/](https://study-ce.tistory.com/)</br>
+📫 How to reach me **21700196@handong.edu**</br>
+
+
+<!-- 👨‍💻 All of my projects are available at [helllo](helllo)
+ -->
 
 
 <h3 align="left">Languages and Tools:</h3>
