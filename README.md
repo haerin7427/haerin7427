@@ -21,6 +21,10 @@
 
 
 ### Project 
+<ul>
+  <li><a href="https://github.com/haerin7427/LetsExercise">Let's exercise </a>" (2021.10 ~ 2021.12)"
+</li>
+  </ul>
 
 - Wanana (2020.08 ~ 2021.06)
 - OAS (2021.01 ~ 2021.08)
