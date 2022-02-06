@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Haerin 👋
 
-🎓 I graduated from Handong univ this year.
+🎓 I graduated from Handong univ this year.</br>
 🌱 I’m currently learning Java, Algorithm, and Web programming.
 💛 I want to be a backend developer.
 💻 I'm in between jobs.
