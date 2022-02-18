@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Blog-green?style=flat-square&logo=Micro.blog&logoColor=white&link=https://study-ce.tistory.com/"/>
 </a>&nbsp -->
 
-### Hi there, I'm Haerin 👋
+## Hi there, I'm Haerin 👋
 
 🎓 I graduated from Handong univ this year.</br>
 🌱 I’m currently learning Java, Algorithm, and Web programming.</br>
@@ -32,7 +32,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=haerin7427)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### �Top Langs 
+### Top Langs 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haerin7427&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
