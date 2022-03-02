@@ -22,8 +22,8 @@
 
 ### 📱Project  
 <ul>
-  <li><a href="https://github.com/haerin7427/Wanana">Wanana</a> (2020.08 ~ 2021.06)</li>
-<!--   <li><a href="https://github.com/haerin7427/OAS">OAS</a> (2021.01 ~ 2021.08)</li> -->
+  <li><a href="https://github.com/haerin7427/Wanana">One 하나</a> (2020.08 ~ 2021.06)</li>
+  <li><a href="https://github.com/haerin7427/OAS">HGU CSEE 신청 시스템</a> (2021.01 ~ 2021.08)</li>
   <li><a href="https://github.com/haerin7427/LetsExercise">Let's exercise </a> (2021.10 ~ 2021.12)</li>
  </ul>
 
