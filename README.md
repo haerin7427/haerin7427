@@ -10,7 +10,7 @@
 💻 I'm in between jobs.</br>
 📝 I regularly write articles on [https://study-ce.tistory.com/](https://study-ce.tistory.com/)</br>
 📫 How to reach me **21700196@handong.ac.kr**</br>
-
+<a href="https://ballistic-overcoat-24a.notion.site/Kim-Haerin-737c14e9a1694d4b85dba30a839d99ff">📰 Portfolio</a>
 
 <!-- 👨‍💻 All of my projects are available at [helllo](helllo)
  -->
