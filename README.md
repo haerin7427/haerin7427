@@ -4,12 +4,9 @@
 
 ## Hi there, I'm Haerin 👋
 
-🎓 I graduated from Handong univ this year.</br>
-🌱 I’m currently learning Java, Algorithm, and Web programming.</br>
-💛 I want to be a backend developer.</br>
-💻 I'm in between jobs.</br>
-📝 I write articles on [https://study-ce.tistory.com/](https://study-ce.tistory.com/)</br>
-📫 How to reach me **hae7427@gmail.com**</br>
+- 📨 Email. hae7427@gmail.com
+- 🅱️ Blog. https://study-ce.tistory.com/
+- 📋 Notion. [resume](https://ballistic-overcoat-24a.notion.site/27889d3a4107485eaa2200dbb95fd2ca)
 
 <!-- 👨‍💻 All of my projects are available at [helllo](helllo)
  -->
